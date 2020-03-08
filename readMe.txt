@@ -12,7 +12,7 @@ Tulbad:
   a) Näitab kella reaalajas.
   b) Näitab ära kuupäeva, kuu, aasta.
   c) Näitab ära esimese tulba all vasakus nurgas lehekülje loojat.
-  d) Vajutades kella, kuupäeva, kuu või aasta peale saab muuta nende värvust.
+  d) Vajutades creatori, kella, kuupäeva, kuu või aasta peale saab muuta nende värvust.
   e) Tekst, mis muudab värvust on peale suunamisel cursoriks pandud 'pointer'.
   f) Värvid muutuvad erinevalt (random tsükkel).
 
