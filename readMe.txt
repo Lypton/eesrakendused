@@ -1,5 +1,7 @@
 | Kell | Kenet Paurmann |
 
+Link leheküljele: http://www.tlu.ee/~lypton/public/Eesrakenduses/Creativity/
+
 Lehel on olemas mitmeid funktsioone!
 Tagataustale on asetatud liikuv Gif.
 Tulpade taustadeks on asetatud teistsugune liikuv Gif.
